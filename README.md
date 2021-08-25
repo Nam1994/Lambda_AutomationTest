@@ -14,15 +14,21 @@
 | ...           |                    |                                      |
                                                
 #How to run the test case:
-     We will run the test case in Terminal:
-        1.1 test_integration_page.py
-        1.2 test_lambda_page_02.py
++ We will run the test case in Terminal:
+
+    `1.test_integration_page.py`
+    
+    `1.2 test_lambda_page_02.py`
 
 #How to run test  in Allure Reports
-    We have to run the testcase.py and run allure application by command:
-    Step 1: pytest -v -s Report/testcase.py
-    Step 2: pytest -v -s allure="path_file_Reports"   Report/testcase.py   
-    Step 3: allure serve path_file 
+
++ We have to run the testcase.py and run allure application by command:
+
+`Step 1: pytest -v -s Report/testcase.py`
+
+`Step 2: pytest -v -s allure="path_file_Reports"   Report/testcase.py ` 
+ 
+`Step 3: allure serve path_file`
     
     
 
