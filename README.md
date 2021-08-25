@@ -1,11 +1,11 @@
 
-#Install Package 
+# Install Package 
 + Import package in the requirement.txt include:
     + Install Selenium  
     + Install Allure pytest   
     + Install Pytest
 
-#How to download Driver
+# How to download Driver
 + We can download driver Browser in the table:
 
 |`Name Browser`  | `Driver  `           |          `Download    `                |                        
@@ -21,12 +21,12 @@
       
     `1.2 test_lambda_page_02.py`
 
-#How to run test  in Allure Reports
+# How to run test  in Allure Reports
 
 + We have to run the testcase.py and run allure application by command:
-+ Step 1: pytest -v -s Report/testcase.py
-+ Step 2: pytest -v -s allure="path_file_Reports"   Report/testcase.py 
-+ Step 3: allure serve path_file      
++ Step 1: `pytest -v -s Report/testcase.py`
++ Step 2: `pytest -v -s allure="path_file_Reports"   Report/testcase.py `
++ Step 3: `allure serve path_file `
 
 
 
