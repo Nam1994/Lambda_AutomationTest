@@ -1,4 +1,5 @@
-####I.Install Package 
+
+#I.Install Package 
 + Import package in the requirement.txt include:
     + Install Selenium  
     + Install Allure pytest   
@@ -9,7 +10,7 @@
 
 |`Name Browser`  | `Driver  `           |          `Download    `                |                        
 |-------------- |:------------------:|--------------------------------:     |
-|<img src="https://cdn2.iconfinder.com/data/icons/social-media-8/512/Chrome.png" width="25" height="25" />        | `Chromedriver `    |[Download](ChromeDriver 93.0.4577.15)     |
+|<img src="https://cdn2.iconfinder.com/data/icons/social-media-8/512/Chrome.png" width="25" height="25" />        | `Chromedriver `    |[Download](ChromeDriver93.0.4577.15)     |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png" width="20" height="20" />       | `geckodriver `     |[Download](geckodriver-v0.29.1-win64.zip) |
 | ...           |                    |                                      |
                                                
